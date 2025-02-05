@@ -8,7 +8,7 @@ void printArray(int arr[],int size) {
     for (int i = 0;i<size;i++) {
         cout << arr[i]<<" ";
     }
-    cout <<"printing the array is done" <<endl;
+    cout <<"printing the array is done " <<endl;
 }
 
 
